@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+void pengurangan (int R, int I)
+{
+	cout << (R-I);
+}
+int main ()
+{
+	pengurangan (100, 50);
+}
