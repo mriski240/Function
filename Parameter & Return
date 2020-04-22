@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int pembagian (int R, int I)
+{
+	return R/I;
+}
+int main ()
+{
+	cout << pembagian (50, 2);
+}
